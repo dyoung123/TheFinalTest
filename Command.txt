@@ -15,3 +15,6 @@ git config user.name
 git config user.name "yDylan_INFO"
 git add Command.txt
 git commit -m "Added Command"
+
+Step 6:
+I learned that committing a message saves the overall file progress and records the changes in git status
